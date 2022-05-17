@@ -5,9 +5,9 @@ JAVA commande line interface chat applicatoin using sockets
 2- run the SocketClient.java several time to create serveral clients.<br>
 you can run the programme in eclipse or manually in the CMD. 
 #### To compile the Java program type the following command: 
-javac FileNameExample.java 
+###### javac FileNameExample.java 
 #### To run the Java program, type the following command :
-java FileNameExample 
+###### java FileNameExample 
 
 
 
